@@ -1,2 +1,2 @@
 # Spam-Bot
-There is a spam bot that can generate random characters and one that creates the same lines.
+There are 2 spambot options: one spams random characters and another spams the same lines.
